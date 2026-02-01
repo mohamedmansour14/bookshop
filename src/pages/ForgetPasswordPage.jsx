@@ -7,7 +7,6 @@ export default function ForgetPasswordPage() {
   return (
     <>
       <Header />
-
       <ForgetPassword />
       <Footer />
     </>

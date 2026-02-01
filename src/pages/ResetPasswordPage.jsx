@@ -1,5 +1,5 @@
 import Header from "../components/Header";
-
+import Footer from "../components/Footer";
 import ResetPassword from "../components/ResetPassword";
 
 export default function ResetPasswordPage() {
@@ -7,7 +7,8 @@ export default function ResetPasswordPage() {
     <>
       <Header />
       <ResetPassword />
-      <Footer/>
+
+      <Footer />
     </>
   );
 }
