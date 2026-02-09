@@ -1,6 +1,7 @@
 import Navbar from "./Navbar";
 
 export default function Header() {
+  
   return (
     <div className="relative w-full h-85 bg-[url('/img/bg.png')] bg-cover bg-center ">
 

@@ -15,7 +15,7 @@ export default function Footer() {
           <div className="flex gap-5 pb-1 text-white ">
             <div className="flex items-center justify-center gap-3">
               <span>
-                <FaBookBookmark size={20} />
+                <FaBookBookmark className="text-white" size={20} />
               </span>
               <a className="  text-[#FFFFFF] " href="#">
                 BookShop
