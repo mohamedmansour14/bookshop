@@ -2,6 +2,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import Services from "../components/services";
 import BestSeller from "../components/BestSeller";
+import Recomend from "../components/Recomend";
  
 
 export default function HomePage() {
@@ -27,6 +28,8 @@ export default function HomePage() {
 
  <Services/>
  <BestSeller/>
+ <Recomend/> 
+ 
 <Footer/>
       
     </>
